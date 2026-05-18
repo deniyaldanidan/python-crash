@@ -1,0 +1,3 @@
+This is a sample Text!
+This file's purpose is to be read by .py
+This file is created for to be read by .py

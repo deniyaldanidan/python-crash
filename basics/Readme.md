@@ -19,4 +19,9 @@
 - [x] Map & Filter
 - [x] Functions
 - [x] import
-- [ ] OOP
+- [x] OOP
+- [x] Read-Files
+- [ ] Modules & Libraries
+
+## Refer:
+1. [Every Dunder Methods](https://www.pythonmorsels.com/every-dunder-method/)
