@@ -21,7 +21,7 @@
 - [x] import
 - [x] OOP
 - [x] Read-Files
-- [ ] Modules & Libraries
+- [x] Modules & Libraries
 
 ## Refer:
 1. [Every Dunder Methods](https://www.pythonmorsels.com/every-dunder-method/)
