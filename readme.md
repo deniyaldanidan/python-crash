@@ -10,6 +10,6 @@ Just a bunch of Python Lessons and Tryouts.
 
 
 > [!TIP]
-> Use Asyncio for managing many waiting tasks
-> Use Threads for Parallel tasks that share data with minimal CPU use
-> Use Processes for maximizing performance of CPU Intensive tasks
+> - Use Asyncio for managing many waiting tasks
+> - Use Threads for Parallel tasks that share data with minimal CPU use
+> - Use Processes for maximizing performance of CPU Intensive tasks
