@@ -1,0 +1,5 @@
+2026-07-13T08:06:12 - INFO - Hello, This is a INFO-LOG
+2026-07-13T08:16:04 - INFO - Hello, This is a INFO-LOG
+2026-07-13T08:16:04 - WARNING - Hello, This is a Warning LOG
+2026-07-13T08:24:59 - INFO - Hello, This is a INFO-LOG
+2026-07-13T08:24:59 - WARNING - Hello, This is a Warning LOG

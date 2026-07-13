@@ -1,0 +1,10 @@
+2026-07-13T09:25:05 - INFO - trial_2:trial_2.py:33 - This is a info log
+2026-07-13T09:25:05 - WARNING - trial_2:trial_2.py:34 - This is a warning log
+2026-07-13T09:32:06 - INFO - trial_2:trial_2.py:34 - This is a info log
+2026-07-13T09:32:06 - WARNING - trial_2:trial_2.py:35 - This is a warning log
+2026-07-13T09:32:06 - ERROR - trial_2:trial_2.py:42 - Exception happened
+Traceback (most recent call last):
+  File "E:\Work\py-world\python-crash\logging_trials\trial_2.py", line 39, in <module>
+    num = 50 / 0
+          ~~~^~~
+ZeroDivisionError: division by zero
